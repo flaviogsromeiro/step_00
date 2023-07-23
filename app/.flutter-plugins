@@ -1,14 +1,14 @@
 # This is a generated file; do not edit or check into version control.
-cloud_firestore=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\cloud_firestore-4.8.3\\
-cloud_firestore_web=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\cloud_firestore_web-3.6.3\\
-firebase_auth=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\firebase_auth-4.7.1\\
-firebase_auth_web=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\firebase_auth_web-5.6.1\\
-firebase_core=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\firebase_core-2.15.0\\
-firebase_core_web=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\firebase_core_web-2.6.0\\
-google_sign_in=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\google_sign_in-6.1.4\\
-google_sign_in_android=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\google_sign_in_android-6.1.18\\
-google_sign_in_ios=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\google_sign_in_ios-5.6.2\\
-google_sign_in_web=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\google_sign_in_web-0.12.0+2\\
-in_app_purchase=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\in_app_purchase-3.1.7\\
-in_app_purchase_android=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\in_app_purchase_android-0.3.0+10\\
-in_app_purchase_storekit=C:\\Users\\FlavioRomeiro-Afixco\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\in_app_purchase_storekit-0.3.6+4\\
+cloud_firestore=/Users/user207535/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.3/
+cloud_firestore_web=/Users/user207535/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.6.3/
+firebase_auth=/Users/user207535/.pub-cache/hosted/pub.dev/firebase_auth-4.7.1/
+firebase_auth_web=/Users/user207535/.pub-cache/hosted/pub.dev/firebase_auth_web-5.6.1/
+firebase_core=/Users/user207535/.pub-cache/hosted/pub.dev/firebase_core-2.15.0/
+firebase_core_web=/Users/user207535/.pub-cache/hosted/pub.dev/firebase_core_web-2.6.0/
+google_sign_in=/Users/user207535/.pub-cache/hosted/pub.dev/google_sign_in-6.1.4/
+google_sign_in_android=/Users/user207535/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.18/
+google_sign_in_ios=/Users/user207535/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.6.2/
+google_sign_in_web=/Users/user207535/.pub-cache/hosted/pub.dev/google_sign_in_web-0.12.0+2/
+in_app_purchase=/Users/user207535/.pub-cache/hosted/pub.dev/in_app_purchase-3.1.7/
+in_app_purchase_android=/Users/user207535/.pub-cache/hosted/pub.dev/in_app_purchase_android-0.3.0+10/
+in_app_purchase_storekit=/Users/user207535/.pub-cache/hosted/pub.dev/in_app_purchase_storekit-0.3.6+4/
