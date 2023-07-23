@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399687369534",
+    "project_id": "dash-clicker---codelabs-c8765",
+    "storage_bucket": "dash-clicker---codelabs-c8765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399687369534:android:b1dbc8c855ae0ba0d2e26f",
+        "android_client_info": {
+          "package_name": "b.afixcode.codelabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399687369534-a4vcn8mdvjn1m4hrs2inos9ed4ni00d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIZAhhGZpz3_rJM7Br7eaUTcbpIpPHWjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399687369534-a4vcn8mdvjn1m4hrs2inos9ed4ni00d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

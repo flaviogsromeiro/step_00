@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>399687369534-ib3qkk927b1jqfoe4gn72bidb2oqmtuj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.399687369534-ib3qkk927b1jqfoe4gn72bidb2oqmtuj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCEmAjDgFTvWiFoOxbzY6_i84xO0avsMM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>399687369534</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.afixcode.codelabs</string>
+	<key>PROJECT_ID</key>
+	<string>dash-clicker---codelabs-c8765</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dash-clicker---codelabs-c8765.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:399687369534:ios:2dad28d64a9e984bd2e26f</string>
+</dict>
+</plist>
