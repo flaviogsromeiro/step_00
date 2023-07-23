@@ -7,7 +7,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
-import '../firebase_options.dart';
+
 import '../model/firebase_state.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -33,7 +33,7 @@ class FirebaseNotifier extends ChangeNotifier {
   Future<void> load() async {
     try {
       await Firebase.initializeApp(
-        options: DefaultFirebaseOptions.currentPlatform,
+        options: Defau
       );
       loggedIn = FirebaseAuth.instance.currentUser != null;
       state = FirebaseState.available;
