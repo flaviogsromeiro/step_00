@@ -9,7 +9,6 @@ import 'package:google_sign_in/google_sign_in.dart';
 
 import '../firebase_options.dart';
 import '../model/firebase_state.dart';
-import 'package:firebase_core/firebase_core.dart';
 
 class FirebaseNotifier extends ChangeNotifier {
   bool loggedIn = false;
@@ -29,6 +28,8 @@ class FirebaseNotifier extends ChangeNotifier {
     }
     return FirebaseFirestore.instance;
   }
+
+  User? get user => FirebaseAuth.instance.currentUser;
 
   Future<void> load() async {
     try {

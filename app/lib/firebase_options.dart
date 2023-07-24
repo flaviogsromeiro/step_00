@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDIZAhhGZpz3_rJM7Br7eaUTcbpIpPHWjg',
-    appId: '1:399687369534:android:b1dbc8c855ae0ba0d2e26f',
-    messagingSenderId: '399687369534',
-    projectId: 'dash-clicker---codelabs-c8765',
-    storageBucket: 'dash-clicker---codelabs-c8765.appspot.com',
+    apiKey: 'API KEY',
+    appId: 'APP ID',
+    messagingSenderId: 'SENDER ID',
+    projectId: 'PROJECT ID',
+    storageBucket: 'STORAGE BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBCEmAjDgFTvWiFoOxbzY6_i84xO0avsMM',
-    appId: '1:399687369534:ios:2dad28d64a9e984bd2e26f',
-    messagingSenderId: '399687369534',
-    projectId: 'dash-clicker---codelabs-c8765',
-    storageBucket: 'dash-clicker---codelabs-c8765.appspot.com',
-    iosClientId: '399687369534-ib3qkk927b1jqfoe4gn72bidb2oqmtuj.apps.googleusercontent.com',
-    iosBundleId: 'br.afixcode.codelabs',
+    apiKey: 'API KEY',
+    appId: 'APP ID',
+    messagingSenderId: 'SENDER ID',
+    projectId: 'PROJECT ID',
+    storageBucket: 'STORAGE BUCKET',
+    iosClientId: 'CLIENT ID',
+    iosBundleId: 'BUNDLE ID',
   );
 }
