@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

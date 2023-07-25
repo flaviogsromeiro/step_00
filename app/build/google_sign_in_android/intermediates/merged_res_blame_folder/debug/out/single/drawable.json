@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\google_sign_in_android\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\c39da68e86d1acebd57635cefa9e14cf\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    }
+]

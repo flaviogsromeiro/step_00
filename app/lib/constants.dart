@@ -4,4 +4,4 @@ const storeKeyUpgrade = 'dash_upgrade_3d';
 const storeKeySubscription = 'dash_subscription_doubler';
 
 // TODO: Replace by your own server IP
-const serverIp = '192.168.178.46';
+const serverIp = '192.168.1.45';

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

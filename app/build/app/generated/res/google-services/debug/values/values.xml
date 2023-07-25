@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">399687369534-a4vcn8mdvjn1m4hrs2inos9ed4ni00d7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">399687369534</string>
+    <string name="google_api_key" translatable="false">AIzaSyDIZAhhGZpz3_rJM7Br7eaUTcbpIpPHWjg</string>
+    <string name="google_app_id" translatable="false">1:399687369534:android:b1dbc8c855ae0ba0d2e26f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIZAhhGZpz3_rJM7Br7eaUTcbpIpPHWjg</string>
+    <string name="google_storage_bucket" translatable="false">dash-clicker---codelabs-c8765.appspot.com</string>
+    <string name="project_id" translatable="false">dash-clicker---codelabs-c8765</string>
+</resources>

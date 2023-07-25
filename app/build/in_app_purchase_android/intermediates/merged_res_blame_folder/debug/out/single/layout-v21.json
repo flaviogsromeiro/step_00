@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\codelabs\\step_00\\app\\build\\in_app_purchase_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\FlavioRomeiro-Afixco\\.gradle\\caches\\transforms-3\\328ff12af630c40ace162727eb8190bf\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
